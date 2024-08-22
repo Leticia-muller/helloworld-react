@@ -1,0 +1,24 @@
+* {
+margin: 0;
+padding: 0;
+}
+ 
+.Hello {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  box-sizing: border-box;
+  border: 5px solid powderblue;
+  border-radius: 10px;
+  background-color: paleturquoise;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+ 
+
+
+
+
+
